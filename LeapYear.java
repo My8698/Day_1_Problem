@@ -1,7 +1,5 @@
 package com.bridgelabz.basics;
-
 import java.util.Scanner;
-
 public class LeapYear {
     public static void main(String[] args) {
         int year;
@@ -19,6 +17,5 @@ public class LeapYear {
         }
 
     }
-
 
 }
