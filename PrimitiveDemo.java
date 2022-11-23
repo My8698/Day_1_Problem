@@ -1,17 +1,17 @@
 package com.bridgelabz.basics;
 public class PrimitiveDemo {
-    static boolean val1;
-    static float val2;
-    static int val3;
-    static long val4;
-    static double val5;
-    static String val6;
+    static boolean value1;
+    static float value2;
+    static int value3;
+    static long value4;
+    static double value5;
+    static String value6;
     public static void main(String[] args) {
-        System.out.println("val1->"+val1);
-        System.out.println("val2->"+val2);
-        System.out.println("val3->"+val3);
-        System.out.println("val4->"+val4);
-        System.out.println("val5->"+val5);
-        System.out.println("val6->"+val6);
+        System.out.println("value1->"+value1);
+        System.out.println("value2->"+value2);
+        System.out.println("value3->"+value3);
+        System.out.println("value4->"+value4);
+        System.out.println("value5->"+value5);
+        System.out.println("value6->"+value6);
     }
 }
