@@ -1,5 +1,4 @@
 package com.bridgelabz.basics;
-
 public class StaticDemo {
     static int x=10;
     static  int y;
@@ -12,7 +11,6 @@ public class StaticDemo {
         System.out.println("Running static block");
         y=y+5;
     }
-
     public static void main(String[] args) {
         func(7);
     }
