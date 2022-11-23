@@ -1,8 +1,8 @@
 package com.bridgelabz.basics;
-public class StaticDemo {
+public class StaticMethodDemo {
     static int x=10;
     static  int y;
-    static void func(int z){
+    static void function(int z){
         System.out.println("x="+x);
         System.out.println("y="+y);
         System.out.println("z="+z);
@@ -12,6 +12,6 @@ public class StaticDemo {
         y=y+5;
     }
     public static void main(String[] args) {
-        func(7);
+        function(7);
     }
 }
