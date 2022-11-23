@@ -1,5 +1,4 @@
 package com.bridgelabz.basics;
-
 public class StringCompare {
     public static void main(String[] args) {
         String s1="Madhuri";
